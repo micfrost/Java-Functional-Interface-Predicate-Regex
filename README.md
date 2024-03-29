@@ -8,6 +8,12 @@ The Java Password Validator is a simple application designed to demonstrate the 
 - **Criteria Check**: Ensures passwords are at least 8 characters long, contain at least one uppercase letter, and one digit.
 - **Use of Predicate.not()**: Demonstrates the use of `Predicate.not()` to negate the result of a predicate for validation.
 
+## Java Features
+- **Functional Programming**: Employs Java's functional programming constructs for concise and readable code.
+- **Regular Expressions**: Uses regular expressions to check for uppercase letters and digits.
+- **Java Predicates**: Demonstrates the use of `Predicate` interface for conditional checks.
+
+
 ## How to Use
 1. **Run the Application**: Start by running the `Main` class.
 2. **Enter a Password**: Input a password when prompted.
